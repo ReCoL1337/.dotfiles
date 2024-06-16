@@ -53,6 +53,7 @@ xdg-utils
 yad
 nvim
 stow
+zoxide
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
