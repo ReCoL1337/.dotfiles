@@ -54,6 +54,7 @@ yad
 nvim
 stow
 zoxide
+fzf
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
