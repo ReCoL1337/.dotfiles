@@ -2,6 +2,8 @@
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 export SCRAPEOPS_API_KEY=d90aff54-11bd-4ca0-8458-e909bc05da67
 export ZSH="$HOME/.oh-my-zsh"
+export EDITOR=nvim
+export VISUAL=nvim
 
 ZSH_THEME="af-magic"
 
