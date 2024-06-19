@@ -2,27 +2,27 @@
   "geometry-of-main_window_geometry": {
     "frame_geometry": {
       "height": 1027,
-      "width": 696,
-      "x": 1920,
+      "width": 746,
+      "x": 0,
       "y": 0
     },
     "full_screened": false,
     "geometry": {
       "height": 1027,
-      "width": 696,
-      "x": 1920,
+      "width": 746,
+      "x": 0,
       "y": 0
     },
     "maximized": true,
     "normal_geometry": {
-      "height": 1027,
-      "width": 946,
+      "height": 1043,
+      "width": 960,
       "x": 0,
       "y": 0
     },
     "qt": {
       "__class__": "bytearray",
-      "__value__": "AdnQywADAAAAAAeAAAAAAAAACjcAAAQCAAAAAAAAAAAAAAOxAAAEAgAAAAECAAAAB4AAAAeAAAAAAAAACjcAAAQC"
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAAukAAAQCAAAAAAAAAAAAAAO/AAAEEgAAAAACAAAAB4AAAAAAAAAAAAAAAukAAAQC"
     },
     "screen": {
       "depth": 32,
@@ -30,13 +30,13 @@
       "geometry_in_logical_pixels": {
         "height": 1080,
         "width": 1920,
-        "x": 1920,
+        "x": 0,
         "y": 0
       },
-      "index_in_screens_list": 1,
-      "manufacturer": "AOC",
-      "model": "24G1WG4",
-      "name": "HDMI-A-1",
+      "index_in_screens_list": 0,
+      "manufacturer": "BOE",
+      "model": "0x09CC",
+      "name": "eDP-1",
       "serial": "",
       "size_in_logical_pixels": {
         "height": 1080,
@@ -44,7 +44,7 @@
       },
       "virtual_geometry": {
         "height": 1080,
-        "width": 3840,
+        "width": 1920,
         "x": 0,
         "y": 0
       }
@@ -52,7 +52,7 @@
   },
   "main_window_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJYA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAArAD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACbAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAARYA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAGgD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAPAA////AAACuAAABAMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
+    "__value__": "AAAA/wAAAAH9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAvsAAAAQAHQAbwBjAC0AZABvAGMAawAAAAAA/////wAAAJYA////+wAAABYAcwBlAGEAcgBjAGgALQBkAG8AYwBrAAAAAAD/////AAAArAD///8AAAABAAAAAAAAAAD8AgAAAAT7AAAAFgBsAG8AbwBrAHUAcAAtAGQAbwBjAGsAAAAAAP////8AAACbAP////sAAAAcAGIAbwBvAGsAbQBhAHIAawBzAC0AZABvAGMAawAAAAAA/////wAAARYA////+wAAABwAaQBuAHMAcABlAGMAdABvAHIALQBkAG8AYwBrAAAAAAD/////AAAAGgD////7AAAAHgBoAGkAZwBoAGwAaQBnAGgAdABzAC0AZABvAGMAawAAAAAA/////wAAAPAA////AAAC6gAABAMAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAAAAAAAAQAAAB4AYQBjAHQAaQBvAG4AcwBfAHQAbwBvAGwAYgBhAHICAAAAAP////8AAAAAAAAAAA=="
   },
   "old_prefs_migrated": true,
   "session_data": {
@@ -100,7 +100,7 @@
         ],
         "key": "/home/recol/Calibre Library/Marc Loy/Learning Java (2)/Learning Java - Marc Loy.epub",
         "pathtoebook": "/home/recol/Calibre Library/Marc Loy/Learning Java (2)/Learning Java - Marc Loy.epub",
-        "timestamp": "2024-06-13T15:03:37.656Z",
+        "timestamp": "2024-06-16T10:45:20.572Z",
         "title": "Learning Java"
       }
     ]

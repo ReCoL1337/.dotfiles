@@ -31,6 +31,6 @@ SAVEHIST=10000
 setopt appendhistory
 
 eval "$(zoxide init --cmd cd zsh)"
-eval "$(oh-my-posh --init zsh --config $HOME/.config/ohmyposh/zen.toml)"
+eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
 
 alias c=clear
