@@ -1,7 +1,7 @@
 {
   "book_list_pin_splitter_state": {
     "__class__": "bytearray",
-    "__value__": "AAAA/wAAAAEAAAACAAABAP////8A/////wEAAAABAA=="
+    "__value__": "AAAA/wAAAAEAAAACAAABAAAAAEYA/////wEAAAABAA=="
   },
   "color_palette": "dark",
   "cover_grid_color": [
@@ -136,6 +136,57 @@
     }
   },
   "default_author_link": null,
+  "geometry-of-calibre_main_window_geometry": {
+    "frame_geometry": {
+      "height": 508,
+      "width": 971,
+      "x": 0,
+      "y": 0
+    },
+    "full_screened": false,
+    "geometry": {
+      "height": 508,
+      "width": 971,
+      "x": 0,
+      "y": 0
+    },
+    "maximized": true,
+    "normal_geometry": {
+      "height": -1,
+      "width": -1,
+      "x": 0,
+      "y": 0
+    },
+    "qt": {
+      "__class__": "bytearray",
+      "__value__": "AdnQywADAAAAAAAAAAAAAAAAA8oAAAH7AAAAAAAAAAD////+/////gAAAAACAAAAB4AAAAAAAAAAAAAAA8oAAAH7"
+    },
+    "screen": {
+      "depth": 32,
+      "device_pixel_ratio": 1.0,
+      "geometry_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      },
+      "index_in_screens_list": 0,
+      "manufacturer": "BOE",
+      "model": "0x09CC",
+      "name": "eDP-1",
+      "serial": "",
+      "size_in_logical_pixels": {
+        "height": 1080,
+        "width": 1920
+      },
+      "virtual_geometry": {
+        "height": 1080,
+        "width": 1920,
+        "x": 0,
+        "y": 0
+      }
+    }
+  },
   "geometry-of-convert_single_dialog_geom": {
     "frame_geometry": {
       "height": 980,
@@ -289,8 +340,9 @@
       }
     }
   },
+  "grid view visible": false,
   "library_usage_stats": {
-    "/home/recol/Calibre Library": 12
+    "/home/recol/Calibre Library": 18
   },
   "light_palette_name": "",
   "light_palettes": {
@@ -349,7 +401,10 @@
     }
   },
   "quick_start_guide_added": true,
+  "qv_open_at_shutdown": false,
+  "search bar visible": true,
   "show_emblems": false,
+  "tag browser search box visible": false,
   "tb_search_order": {
     "0": 1,
     "1": 2,
