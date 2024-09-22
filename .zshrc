@@ -25,6 +25,9 @@ source $ZSH/oh-my-zsh.sh
 # Set-up FZF key bindings (CTRL R for fuzzy history finder)
 source <(fzf --zsh)
 
+# Tmux sessionizer
+bindkey -s ^f "tmux-sessionizer\n"
+
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=10000
@@ -34,3 +37,5 @@ eval "$(zoxide init --cmd cd zsh)"
 eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
 
 alias c=clear
+
+export PATH=$PATH:/home/recol/personal/zig/zig
