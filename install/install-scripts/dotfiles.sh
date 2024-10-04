@@ -4,13 +4,13 @@
 
 mkdir -p ~/Pictures
 
-cd "~/Pictures" || exit 1
+cd ~/Pictures || exit 1
 
-git pull "https://github.com/ReCoL1337/wallpapers.git"
+git clone "https://github.com/ReCoL1337/wallpapers.git"
 
 # dotfiles
 
-cd "~/.dotfiles" || exit 1
+cd ~/.dotfiles || exit 1
 
 stow --adopt .
 

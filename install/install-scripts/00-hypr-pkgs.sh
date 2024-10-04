@@ -51,10 +51,13 @@ wlogout
 xdg-user-dirs
 xdg-utils 
 yad
-nvim
+neovim
 stow
 zoxide
 fzf
+tmux
+oh-my-posh
+firefox
 )
 
 # the following packages can be deleted. however, dotfiles may not work properly
