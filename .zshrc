@@ -39,3 +39,6 @@ eval "$(oh-my-posh init zsh --config $HOME/.config/ohmyposh/zen.toml)"
 alias c=clear
 
 export PATH=$PATH:/home/recol/personal/zig/zig
+
+# Created by `pipx` on 2024-11-30 10:50:35
+export PATH="$PATH:/home/recol/.local/bin"
