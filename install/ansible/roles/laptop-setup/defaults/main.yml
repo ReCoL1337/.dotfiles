@@ -1,0 +1,74 @@
+---
+aur_helper: "yay"
+nvidia: false
+gtk_themes: true
+bluetooth: false
+thunar: true
+sddm: true
+xdg_desktop_portal: true
+zsh: true
+rog: false
+dots: true
+blacklist_nouveau: true
+install_sddm_theme: true
+hyprland_packages:
+  - aylurs-gtk-shell
+  - liphist
+  - curl
+  - grim
+  - gvfs
+  - gvfs-mtp
+  - hypridle
+  - hyprlock
+  - imagemagick
+  - inxi
+  - jq
+  - kitty
+  - kvantum
+  - nano
+  - network-manager-applet
+  - pamixer
+  - pavucontrol
+  - pipewire-alsa
+  - playerctl
+  - polkit-gnome
+  - python-requests
+  - python-pyquery
+  - pyprland
+  - qt5ct
+  - qt6ct
+  - qt6-svg
+  - rofi-wayland
+  - slurp
+  - swappy
+  - swaync
+  - swww
+  - wallust-git
+  - waybar
+  - wget
+  - wl-clipboard
+  - wlogout
+  - xdg-user-dirs
+  - xdg-utils
+  - yad
+  - neovim
+  - stow
+  - zoxide
+  - fzf
+  - tmux
+  - oh-my-posh
+  - firefox
+  - brightnessctl
+  - btop
+  - cava
+  - eog
+  - fastfetch
+  - gnome-system-monitor
+  - mousepad
+  - mpv
+  - mpv-mpris
+  - nvtop
+  - nwg-look
+  - pacman-contrib
+  - vim
+  - yt-dlp

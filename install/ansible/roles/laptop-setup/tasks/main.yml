@@ -1,0 +1,16 @@
+---
+- name: Ensure system is updated
+  ansible.builtin.include_tasks:
+    - "{{ ansible_os_family }}/update.yml"
+
+- name: Install hyprland packages
+  ansible.builtin.include_tasks:
+    - "{{ ansible_os_family }}/install_pkgs"
+  vars:
+    packages: "{{ hyprland_packages }}"
+
+- name: Add the user to the input group
+  ansible.builtin.user:
+    name: "{{ ansible_user }}"
+    groups: "input"
+    append: true
